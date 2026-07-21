@@ -1,0 +1,88 @@
+# Customer Churn Analysis
+
+## Project Objective
+
+The objective of this project is to analyze customer churn in a telecom company, identify the major factors influencing customer attrition, and provide business recommendations to improve customer retention.
+
+---
+
+
+## Business Insight 1: Overall Churn Rate
+
+### Finding
+The company has an overall customer churn rate of approximately 26.54%.
+
+### Business Impact
+More than one out of every four customers leaves the company, indicating a significant customer retention challenge.
+
+### Recommendation
+Develop proactive customer retention strategies targeting customers at high risk of churn.
+
+---
+
+## Business Insight 2: Contract Analysis
+
+### Finding
+Month-to-month customers have the highest churn rate (42.71%), while customers with two-year contracts have the lowest churn rate (2.83%).
+
+### Business Impact
+Customers with short-term contracts are significantly more likely to leave than customers committed to longer contracts.
+
+### Recommendation
+Offer discounts, loyalty rewards, or bundled services to encourage customers to upgrade to one-year or two-year contracts.
+
+---
+
+## Business Insight 3: Customer Tenure Analysis
+Finding
+
+Customers in their first 12 months have the highest churn rate (47.44%), while customers with more than 49 months of tenure have the lowest churn rate (9.51%). The analysis shows a clear decline in churn as customer tenure increases.
+
+###Business Impact
+
+New customers are at a significantly higher risk of leaving the company. Customer retention improves as relationships become more established over time.
+
+### Recommendation
+
+Implement onboarding programs, personalized engagement, and loyalty initiatives during the first year to improve retention and encourage long-term customer relationships.
+
+---
+
+## Business Insight 4: Internet Service Analysis
+Finding
+
+Customers using Fiber optic internet have the highest churn rate (41.89%), compared to DSL customers (18.96%) and customers without internet service (7.40%).
+
+### Business Impact
+
+The Fiber optic customer segment is significantly more likely to leave, indicating potential concerns related to pricing, service quality, or customer expectations.
+
+### Recommendation
+
+Investigate the root causes of churn among Fiber optic customers. Improve service reliability, evaluate pricing strategies, and implement targeted retention campaigns for this high-risk customer segment.
+
+---
+
+## Business Insight 5: Payment Method Analysis
+
+### Finding
+Customers using Electronic Check have the highest churn rate (45.29%), while customers using automatic payment methods have the lowest churn rates.
+
+### Business Impact
+Manual payment methods appear to be associated with higher customer churn, whereas automatic payment methods improve customer retention.
+
+### Recommendation
+Promote AutoPay enrollment by offering incentives and educating customers about its convenience and reliability.
+
+---
+
+## Business Insight 6: Monthly Charges Analysis
+
+### Finding
+Customers paying between $60–$89 per month have the highest churn rate (33.74%), closely followed by customers paying more than $90 (32.86%). Customers paying below $30 have the lowest churn rate (9.80%).
+
+### Business Impact
+Higher-priced plans experience greater customer churn, suggesting that customers paying more may have higher expectations regarding value and service quality.
+
+### Recommendation
+Review pricing strategies and enhance the value proposition of premium plans through additional benefits, loyalty rewards, and improved customer support.
